@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Adithyaraj K
 
-Welcome to my GitHub! I'm a passionate developer constantly exploring new ideas, building projects, and learning by doing. Whether it's web, mobile, or AI, I love turning ideas into working products.
+Welcome to my GitHub! I'm a passionate developer constantly exploring new ideas, building projects to solve ACTUAL real-world problems, and learning by doing. Whether it's web, mobile, or AI, I love turning ideas into working products.
 
 ## 🚀 About Me
 
